@@ -1,0 +1,103 @@
+body
+{
+    background-color:aliceblue;
+}
+.heading
+{
+    color: antiquewhite;
+    
+}
+
+.image
+{
+    float: left;
+    border-radius: 50%;
+}
+.para
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 25px;
+    text-align:justify;
+    font-size:small;
+    color: antiquewhite;
+}
+#d1
+{
+    border-radius: 25px;
+background-color:blueviolet;
+height: 150px;
+width: 770px;
+margin-top: 100px;
+margin-left: 50px;
+padding-top: 10px;
+padding-left: 10px;
+}
+#d1
+{
+    border-radius: 25px;
+background-color:blueviolet;
+height: 150px;
+width: 770px;
+margin-top: 10px;
+margin-left: 20px;
+padding-top: 10px;
+padding-left: 10px;
+
+}
+#d5
+{
+background-color:black;
+height: 250px;
+width: 360px;
+margin-top: 20px;
+margin-left: 20px;
+padding-top: 10px;
+padding-left: 10px;
+float: left;
+}
+#d2
+{
+    border-radius: 25px;
+    background-color:cadetblue;
+    height: 180px;
+    width: 380px;
+    margin-top: 20px;
+    margin-left: 400px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#left
+{
+float: left;
+margin-top: 20px;
+margin-left: 20px;
+padding: auto;
+}
+#right
+{
+    margin-top: 20px;
+    margin-left: 820px;
+    padding: auto;
+}
+#d3
+{
+  
+    background-color:darkblue;
+    height: 180px;
+    width: 240px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#d4
+{
+    background-color:white;
+    height: 300px;
+    width: 240px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-left: 10px;   
+}
